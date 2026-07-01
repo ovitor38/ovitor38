@@ -63,8 +63,3 @@ Tenho grande interesse por arquitetura de software, microsserviços, IA Generati
 </div>
 
 <br/>
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ovitor38&count_private=true&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovitor38&layout=compact&theme=tokyonight"/>
-</div>
